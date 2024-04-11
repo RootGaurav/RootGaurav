@@ -1,14 +1,14 @@
 <div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW95OXN1Y2hneThlYmZvcWthcmw0cmEyMmZnOTN4am9lODltZ3Q2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MFPXPM1nFImgYf6s25/giphy.gif" width="220" height="200"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxlc3V0b2UzeWdrcXJlb3Nmcjd6cDlwa2FsaWJieHA5djZnOTM5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XaGBXxuqn5Uk5UhqG3/giphy.gif" width="220" height="200"/>
-  <img src="https://cdn.dribbble.com/users/202779/screenshots/2334569/d.gif" width="220" height="200"/>
-  <img src="https://i.pinimg.com/originals/bb/40/dc/bb40dca49069c7922513d4c6239338d5.gif" width="220" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW95OXN1Y2hneThlYmZvcWthcmw0cmEyMmZnOTN4am9lODltZ3Q2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MFPXPM1nFImgYf6s25/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxlc3V0b2UzeWdrcXJlb3Nmcjd6cDlwa2FsaWJieHA5djZnOTM5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XaGBXxuqn5Uk5UhqG3/giphy.gif" width="200" height="200"/>
+  <img src="https://cdn.dribbble.com/users/202779/screenshots/2334569/d.gif" width="200" height="200"/>
+  <img src="https://i.pinimg.com/originals/bb/40/dc/bb40dca49069c7922513d4c6239338d5.gif" width="200" height="200"/>
 </div>
 <h1 align="center">Hi 👋, I'm Gaurav Rawat</h1>
 <h3 align="center">Final year BCA Student at Graphic Era University.</h3>
 
 <div align="left">
-  <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="880" height="500"/>
+  <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="800" height="500"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="rootgaurav" /> </p>
