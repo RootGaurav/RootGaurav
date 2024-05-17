@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/bb/40/dc/bb40dca49069c7922513d4c6239338d5.gif" width="200" height="200"/>
 </div>
 <br/>
-<br/>
+
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐,Competitive Programmer 💻, Data Engineer 🤖) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
