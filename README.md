@@ -7,7 +7,7 @@
   <img src="https://cdn.dribbble.com/users/202779/screenshots/2334569/d.gif" width="200" height="200"/>
   <img src="https://i.pinimg.com/originals/bb/40/dc/bb40dca49069c7922513d4c6239338d5.gif" width="200" height="200"/>
 </div>
-<br/>
+
 <br/>
 
 
