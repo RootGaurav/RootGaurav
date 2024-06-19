@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Gaurav Rawat!
 <br/>
+<br/>
 
 <div align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW95OXN1Y2hneThlYmZvcWthcmw0cmEyMmZnOTN4am9lODltZ3Q2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MFPXPM1nFImgYf6s25/giphy.gif" width="200" height="200"/>
