@@ -17,9 +17,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br/><br/>
 
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="800" height="500"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="rootgaurav" /> </p>
 
