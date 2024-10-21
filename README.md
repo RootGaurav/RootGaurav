@@ -2,7 +2,6 @@
 
 ## Hey 👋, I'm Gaurav Rawat
 <br/>
-<br/>
 
 
 <div align="left">
