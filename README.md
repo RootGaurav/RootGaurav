@@ -76,4 +76,4 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rootgaurav&show_icons=true&locale=en" alt="rootgaurav"  width="450"/>
  
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rootgaurav&show_icons=true&locale=en" alt="rootgaurav" width="450"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RootGaurav" alt="GitHub Streak" /></a>
